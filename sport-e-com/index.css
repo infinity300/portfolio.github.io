@@ -43,6 +43,9 @@ a{
     text-decoration: none;
     color: #555;
 }
+a:hover{
+    color: #ff523b;
+}
 p{
     color: #555;
 }
