@@ -405,6 +405,7 @@ h3 {
      box-shadow:  0 0 20px 0px rgba(0,0,0,0.9);
      margin: 10px;
      border-radius: 20px;
+     padding-bottom:8px;
  }
 
  .portfolio__img {
@@ -416,6 +417,9 @@ h3 {
  .portfolio__item:focus {
     position: relative;
     z-index: 2;
+}
+.portfolio_item, h3 {
+    padding: 5px;
 }
 
  .portfolio__img:hover ,
